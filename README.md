@@ -1,6 +1,6 @@
-#Sample Project - Tinder backend
+## Sample Project - Tinder backend
 
-###Tech Stack used
+### Tech Stack used
 
 
 <code>
